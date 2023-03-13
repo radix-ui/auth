@@ -1,0 +1,6 @@
+{
+  "internal": true,
+  "main": "../dist/cjs/request-password.js",
+  "module": "../dist/esm/request-password.js",
+  "types": "../dist/esm/request-password.d.ts"
+}

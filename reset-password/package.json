@@ -1,0 +1,6 @@
+{
+  "internal": true,
+  "main": "../dist/cjs/reset-password.js",
+  "module": "../dist/esm/reset-password.js",
+  "types": "../dist/esm/reset-password.d.ts"
+}

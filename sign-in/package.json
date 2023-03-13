@@ -1,0 +1,6 @@
+{
+  "internal": true,
+  "main": "../dist/cjs/sign-in.js",
+  "module": "../dist/esm/sign-in.js",
+  "types": "../dist/esm/sign-in.d.ts"
+}
