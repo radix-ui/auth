@@ -14,5 +14,6 @@
     "strict": true,
     "alwaysStrict": true,
     "skipLibCheck": true
-  }
+  },
+  "exclude": ["**/stories/**", "**/*.stories.tsx"]
 }
