@@ -1,0 +1,6 @@
+{
+  "internal": true,
+  "main": "../dist/cjs/verify-email.js",
+  "module": "../dist/esm/verify-email.js",
+  "types": "../dist/esm/verify-email.d.ts"
+}
